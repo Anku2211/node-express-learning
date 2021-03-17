@@ -1,0 +1,1 @@
+The content of the output file: This is the content of first txt file.   , This is the content of second txt file.
